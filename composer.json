@@ -1,0 +1,16 @@
+{
+    "name": "flame/pmwp",
+    "type": "wp-plugin",
+    "autoload": {
+        "psr-4": {
+            "Pmwp\\": "PMWP/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Flame",
+            "email": "matteo.mocera@gmail.com"
+        }
+    ],
+    "require": {}
+}
